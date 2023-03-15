@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\MyForm\MyForm\bin\Debug\MyForm.exe.config
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\MyForm\MyForm\bin\Debug\MyForm.exe
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\MyForm\MyForm\bin\Debug\MyForm.pdb
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\MyForm\MyForm\obj\Debug\MyForm.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\MyForm\MyForm\obj\Debug\MyForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\MyForm\MyForm\obj\Debug\MyForm.FormMain.resources
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\MyForm\MyForm\obj\Debug\MyForm.frmVD1.resources
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\MyForm\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\MyForm\MyForm\obj\Debug\MyForm.exe
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\MyForm\MyForm\obj\Debug\MyForm.pdb
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\MyForm\MyForm\obj\Debug\MyForm.frmTBGiaoVien.resources
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\MyForm\MyForm\obj\Debug\MyForm.frmGiaoVien.resources
