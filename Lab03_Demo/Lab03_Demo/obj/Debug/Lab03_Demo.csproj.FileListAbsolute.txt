@@ -1,0 +1,12 @@
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe.config
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.exe
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\Lab03_Demo\Lab03_Demo\bin\Debug\Lab03_Demo.pdb
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.frmSinhVien.resources
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.exe
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\Lab03_Demo\Lab03_Demo\obj\Debug\Lab03_Demo.pdb
+C:\Users\admin\OneDrive\Máy tính\Học tập\Phát triển ứng dụng Desktop\Thực hành\Lab03_Demo\Lab03_Demo\bin\Debug\DanhSachSV.txt
